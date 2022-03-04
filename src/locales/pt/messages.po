@@ -8,7 +8,7 @@ msgstr ""
 "Language: pt\n"
 "Project-Id-Version: juicebox-interface\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2022-02-28 01:58\n"
+"PO-Revision-Date: 2022-03-04 02:09\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -163,7 +163,7 @@ msgstr "<0>Peel</0> é a DAO que gere a parte da interface do juicebox.money. Po
 
 #: src/components/Landing/TrendingSection.tsx
 msgid "<0>Trending projects</0><1><2/></1>"
-msgstr ""
+msgstr "<0>Projetos em alta</0><1><2/></1>"
 
 #: src/components/v1/V1Project/modals/ConfirmUnstakeTokensModal.tsx
 msgid "<0>Your unclaimed {tokenSymbol} tokens:</0> {0}"
@@ -792,7 +792,7 @@ msgstr "Vá para Etherscan"
 
 #: src/components/v1/V1Create/ConfirmDeployProject.tsx
 msgid "Handle"
-msgstr ""
+msgstr "Identificador"
 
 #: src/components/v2/V2Create/V2MainnetWarning.tsx
 msgid "Head to <0>rinkeby.juicebox.money</0> to create a project using the Juicebox V2 contracts on Rinkeby."
@@ -1642,7 +1642,7 @@ msgstr "O montante que foi distribuído a partir do saldo do Juicebox neste cicl
 
 #: src/components/v1/V1Project/Paid.tsx
 msgid "The balance of the wallet that owns this Juicebox project."
-msgstr ""
+msgstr "O saldo da carteira do proprietário desse projeto no Juicebox."
 
 #: src/components/v1/V1Project/Paid.tsx
 msgid "The balance of this project in the Juicebox contract."
@@ -1721,7 +1721,7 @@ msgstr "Essas ferramentas <0>não</0> serão editáveis imediatamente durante um
 
 #: src/constants/ballotStrategies/ballotStrategies.ts
 msgid "This address is an unrecognized strategy contract. Make sure it is correct!"
-msgstr ""
+msgstr "Este endereço é um contrato de estratégia não reconhecido. Tenha certeza que está correto!"
 
 #: src/components/shared/Mod.tsx
 msgid "This address will receive any tokens minted when the recipient project gets paid."
